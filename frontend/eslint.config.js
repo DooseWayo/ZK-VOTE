@@ -45,4 +45,4 @@ export default defineConfig([
       'jsdoc/valid-types': 'warn',
     },
   },
-])
+]);
